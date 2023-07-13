@@ -1,0 +1,7 @@
+1. django-admin - check that django is installed and show subcommands
+2. django-admin startproject first_project - create new project
+3. manage.py - line 18 - executes command line commands
+4. __init__.py - means that first_project is a package
+5. asgi.py and wsgi.py are needed for deploying our project (move to the host to be
+available for the users)
+6. urls.py - here we register all our site pages
